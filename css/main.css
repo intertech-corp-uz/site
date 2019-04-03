@@ -71,23 +71,22 @@ hr {
 }
 
 #headerwrap {
+  /* background-color: rgb(116, 148, 173); */
   background: url(../img/new-header-lg-bg.png) no-repeat center top;
   margin-top: -10px;
   padding-top: 20px;
   text-align: center;
-  background-attachment: relative;
+  background-attachment: fixed;
   background-position: center center;
   min-height: 500px;
   width: 100%;
-
-
 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   
-  background-size: 100%;
+  /* background-size: 100%; */
 }
 
 #headerwrap h1 {
