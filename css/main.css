@@ -29,7 +29,7 @@ p {
 }
 
 a {
-  color: #f85c37;
+  color: #f85c37;  
 }
 
 a:hover, a:focus {
@@ -214,4 +214,13 @@ hr {
   padding-bottom: 25px; 
   text-align: center; 
   font-weight: 600;
+}
+
+#lang-panel {
+  display: inline-block;
+}
+
+#lang-panel a {
+  color: #7b7b7b;
+  margin-right: 3px;
 }
